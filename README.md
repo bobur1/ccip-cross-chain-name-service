@@ -114,6 +114,14 @@ If you want to validate your inputs you can always run the next command:
 npx env-enc view
 ```
 
+### Test
+
+To run the tests, make sure to follow the instructions in the "Usage" section and correctly configure your environment. You can run the tests using either of the following commands:
+
+- `npx hardhat test --network hardhat`
+- `npm run test`
+
+
 ### Deployment
 
 #### Source Chain (Only Once)
